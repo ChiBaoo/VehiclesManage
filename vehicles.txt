@@ -1,0 +1,8 @@
+1, I333, Camry, Black, 2222.0, Toyota, classic, 2018
+1, I999, Raptor, red, 9000.0, ford, sport, 2020
+1, I111, Vios, white, 5000.0, toyota, family, 2002
+2, I555, sirious, oragne, 750.0, yamaha, 80, true
+2, I444, sirious, red, 600.0, yamaha, 70, true
+2, I222, wave, blue, 500.0, honda, 60, true
+2, I666, cup, green, 300.0, honda, 40, false
+2, I888, SuperCup, blud, 300.0, honda, 60, false

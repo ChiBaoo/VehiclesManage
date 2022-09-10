@@ -1,0 +1,4 @@
+2, I888, wave, blue, 5000000, Honda, 60, false
+1, I111, vios, white, 12345678, toyota, 200, true
+2, I444, sirious, yellow, 4000000, yamaha, 70, true
+1, I333, camry, black, 87654321, toyota, 210, true
